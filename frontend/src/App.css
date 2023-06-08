@@ -1,0 +1,16 @@
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.app-container h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Styles for FeedbackForm component are included in the previous response */
